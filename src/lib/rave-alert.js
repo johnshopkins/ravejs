@@ -10,7 +10,7 @@ export default class RaveAlert {
 
     const xhr = new XMLHttpRequest();
     
-    xhr.open('GET', 'https://local.jhu.edu/wp-json/jhu-public/v1/rave-alert');
+    xhr.open('GET', 'https://www.jhu.edu/wp-json/jhu-public/v1/rave-alert');
     xhr.onload = () => {
 
       if (xhr.status === 200) {
