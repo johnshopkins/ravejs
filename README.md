@@ -10,11 +10,11 @@ Drop ready-to-use files directly into your HTML.
 
 1. Include the CSS within the `<head>` tag:
     ```html
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@johnshopkins/rave-js/dist/main.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@johnshopkins/ravejs/dist/main.css" type="text/css" />
     ```
 1. Include the JS just above the closing `<body>` tag:
     ```html
-    <script type="module" src="https://cdn.jsdelivr.net/npm/@johnshopkins/rave-js/dist/main.iife.js"></script>
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@johnshopkins/ravejs/dist/main.iife.js"></script>
     ```
 
 #### Default display location
@@ -34,11 +34,11 @@ If you are using a build system or module bundler, you can use the Rave JS libra
 
 1. Install the library:
     ```bash
-    npm install @johnshopkins/rave-js --save
+    npm install @johnshopkins/ravejs --save
     ```
 1. Use the library:
     ```javascript
-    import RaveAlert from '@johnshopkins/rave-js';
+    import RaveAlert from '@johnshopkins/ravejs';
     new RaveAlert();
     ```
 1. Optionally, define the container that the Rave Alert should be dropped into:

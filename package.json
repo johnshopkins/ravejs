@@ -1,5 +1,5 @@
 {
-  "name": "@johnshopkins/rave-js",
+  "name": "@johnshopkins/ravejs",
   "version": "0.0.0",
   "description": "Johns Hopkins University Rave Alert JavaScript integration",
   "type": "module",
@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnshopkins/rave-js.git"
+    "url": "git+https://github.com/johnshopkins/ravejs.git"
   },
   "bugs": {
-    "url": "https://github.com/johnshopkins/rave-js/issues"
+    "url": "https://github.com/johnshopkins/ravejs/issues"
   },
   "contributors": [
     {
