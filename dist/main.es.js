@@ -4,7 +4,7 @@ class r {
   }
   get() {
     const e = new XMLHttpRequest();
-    e.open("GET", "https://local.jhu.edu/wp-json/jhu-public/v1/rave-alert"), e.onload = () => {
+    e.open("GET", "https://www.jhu.edu/wp-json/jhu-public/v1/rave-alert"), e.onload = () => {
       if (e.status === 200) {
         const t = e.responseText;
         try {

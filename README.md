@@ -43,7 +43,7 @@ If you are using a build system or module bundler, you can use the Rave JS libra
     ```
 1. Optionally, define the container that the Rave Alert should be dropped into:
     ```javascript
-    new RaveAlert(document.getElementById('jhu-rave-alert'););
+    new RaveAlert(document.getElementById('jhu-rave-alert'));
     ```
 
 ## Development
