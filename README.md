@@ -10,11 +10,11 @@ Drop ready-to-use files directly into your HTML.
 
 1. Include the CSS within the `<head>` tag:
     ```html
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@johnshopkins/rave-js@latest/dist/main.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@johnshopkins/rave-js/dist/main.css" type="text/css" />
     ```
 1. Include the JS just above the closing `<body>` tag:
     ```html
-    <script type="module" src="https://cdn.jsdelivr.net/npm/@johnshopkins/rave-js@latest/dist/main.iife.js"></script>
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@johnshopkins/rave-js/dist/main.iife.js"></script>
     ```
 
 #### Default display location
