@@ -45,6 +45,10 @@ If you are using a build system or module bundler, you can use the Rave JS libra
     ```javascript
     new RaveAlert(document.getElementById('jhu-rave-alert'));
     ```
+1. Include the Rave Alert's SCSS file in your SCSS. _Note: Update the path to `node_modules` to fit your filesystem._
+    ```scss
+    @forward './node_modules/@johnshopkins/jhu-wds/src/components/AnnouncementBanner/announcement-banner';
+    ```
 
 ## Development
 
