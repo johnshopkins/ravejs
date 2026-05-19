@@ -14,7 +14,7 @@ Drop ready-to-use files directly into your HTML.
     ```
 1. Include the JS just above the closing `<body>` tag:
     ```html
-    <script type="module" src="https://cdn.jsdelivr.net/npm/@johnshopkins/ravejs/dist/main.iife.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@johnshopkins/ravejs/dist/main.iife.js"></script>
     ```
 
 #### Default display location
