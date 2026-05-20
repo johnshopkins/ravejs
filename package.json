@@ -1,6 +1,6 @@
 {
-  "name": "@johnshopkins/rave-js",
-  "version": "1.0.0",
+  "name": "@johnshopkins/ravejs",
+  "version": "1.0.1",
   "description": "Johns Hopkins University Rave Alert JavaScript integration",
   "type": "module",
   "files": [
@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnshopkins/rave-js.git"
+    "url": "git+https://github.com/johnshopkins/ravejs.git"
   },
   "bugs": {
-    "url": "https://github.com/johnshopkins/rave-js/issues"
+    "url": "https://github.com/johnshopkins/ravejs/issues"
   },
   "contributors": [
     {
@@ -39,7 +39,7 @@
   ],
   "devDependencies": {
     "@eslint/js": "^9.39.2",
-    "@johnshopkins/jhu-wds": "github:johnshopkins/jhu-wds",
+    "@johnshopkins/jhu-wds": "github:johnshopkins/jhu-wds#announcement-banner-fix",
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
     "eslint": "^9.39.2",

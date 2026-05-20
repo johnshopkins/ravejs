@@ -392,9 +392,9 @@
   resolved "https://registry.yarnpkg.com/@inquirer/type/-/type-3.0.10.tgz#11ed564ec78432a200ea2601a212d24af8150d50"
   integrity sha512-BvziSRxfz5Ov8ch0z/n3oijRSEcEsHnhggm4xFZe93DHcUCTlutlq9Ox4SVENAfcRD22UQq7T/atg9Wr3k09eA==
 
-"@johnshopkins/jhu-wds@github:johnshopkins/jhu-wds":
+"@johnshopkins/jhu-wds@github:johnshopkins/jhu-wds#announcement-banner-fix":
   version "0.0.0"
-  resolved "git+ssh://git@github.com/johnshopkins/jhu-wds.git#b482321d8b10f087715e017ccdc493fa0521fbf2"
+  resolved "git+ssh://git@github.com/johnshopkins/jhu-wds.git#1669e669cf598b58e85e7fbcd95499b2d6ad6ad0"
 
 "@jridgewell/sourcemap-codec@^1.5.5":
   version "1.5.5"
