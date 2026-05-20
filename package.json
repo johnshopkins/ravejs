@@ -1,6 +1,6 @@
 {
   "name": "@johnshopkins/ravejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Johns Hopkins University Rave Alert JavaScript integration",
   "type": "module",
   "files": [
