@@ -394,7 +394,7 @@
 
 "@johnshopkins/jhu-wds@github:johnshopkins/jhu-wds":
   version "0.0.0"
-  resolved "git+ssh://git@github.com/johnshopkins/jhu-wds.git#1669e669cf598b58e85e7fbcd95499b2d6ad6ad0"
+  resolved "git+ssh://git@github.com/johnshopkins/jhu-wds.git#6776a4d3af7f13932e92e79ebd6685618711ee95"
 
 "@jridgewell/sourcemap-codec@^1.5.5":
   version "1.5.5"
